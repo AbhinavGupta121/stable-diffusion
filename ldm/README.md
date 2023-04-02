@@ -1,4 +1,4 @@
 ### Contains implementation of all model architectures used in stable diffusion
 
-Data - 
+Data - Prepare, process and load data from Imagenet, and LSUN datasets
 
